@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Banking on the Future logo</title>
+  <desc id="desc">Two people progressing upward toward a gold star on a rising arrow.</desc>
+  <rect width="800" height="800" rx="72" fill="#005a8c"/>
+  <path fill="#fff" d="M194 584h160l41-125h107l64-119-30-16 81-31 8 86-31-17-72 134H420l-41 125H194z"/>
+  <circle cx="278" cy="418" r="27" fill="#fff"/>
+  <path fill="#fff" d="M217 510c0-29 17-55 43-66l37-15c13-5 28-1 36 10l23 32-26 19-18-25v96h-95z"/>
+  <path fill="#fff" d="M201 496l70-51c8-6 19-4 25 4 6 8 4 19-4 25l-70 51c-8 6-19 4-25-4-6-8-4-19 4-25z"/>
+  <circle cx="438" cy="291" r="27" fill="#fff"/>
+  <path fill="#fff" d="M375 374c0-28 17-53 42-64l31-13c13-5 28-1 36 10l22 30-26 19-17-23v103h-88z"/>
+  <path fill="#fff" d="M360 366l68-49c8-6 19-4 25 4 6 8 4 19-4 25l-68 49c-8 6-19 4-25-4-6-8-4-19 4-25z"/>
+  <path fill="#fff" d="M465 339l29-72c4-10 15-15 25-11 10 4 15 15 11 25l-29 72z"/>
+  <path fill="#dc9f1d" d="M503 184l10 30h32l-26 19 10 30-26-18-26 18 10-30-26-19h32z"/>
+</svg>

@@ -1,0 +1,1 @@
+# Placeholder file - resume_html is embedded directly in website_v3.py
